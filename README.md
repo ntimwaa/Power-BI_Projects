@@ -8,4 +8,13 @@ This project explores the car sales market in the United States from 2022 to 202
 ### Key Findings
 - [ "The most expensive car in the U.S. in 2022 was Cadillac Eldorado, with a price tag og $85,000"]
 - ["Cheverolet was the most popular car brand sold by dealers making a total sales of over 7 million dollars"]
-  
+  [" The was a 24% increase in total sales from 2022 to 2023"]
+
+  ### Power BI Visualizations
+- *Dashboard*: An interactive dashboard providing an overview of the car sales market in the U.S.
+- *Reports*: Detailed reports on car sales trends and dealership market sales
+
+- ### Files
+- car sales.csv: The raw dataset used for analysis.
+- Car_sales project.pbix: The Power BI report file containing visualizations and dashboards.
+- README.md: This file.
